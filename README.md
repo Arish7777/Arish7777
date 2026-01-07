@@ -32,32 +32,6 @@
 
 ---
 
-## 👋 Hey! This is Muhammad Arish Khan
-
-🚀 Artificial Intelligence Undergraduate | AI Developer  
-🎓 FAST NUCES Karachi  
-
----
-
-🔭 **I’m currently working on:**  
-- Agentic AI Systems (LangChain, LangGraph)  
-- LLM-based Applications & RAG Pipelines  
-
-🌱 **I’m currently learning:**  
-- Information Retrieval  
-- Scalable AI Systems & MLOps  
-
-💬 **Ask me about:**  
-- Machine Learning & Deep Learning  
-- Computer Vision & Generative AI  
-- NLP, Recommender Systems  
-- DSA, OS, DBMS, OOP  
-
-⚡ **Fun fact:**  
-- I’m a Gamer 🎮  
-
----
-
 ## 💻 Tech Stack:
 
 ### 🚀 Languages
@@ -90,23 +64,6 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Arish7777&theme=darkhub)
 
 ## ✍️ Random Dev Quote:
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-⭐ **Open to:**  
-- AI Internships  
-- Freelance & Paid AI Projects  
-- Research & Collaboration  
-
-
-📊 GitHub Stats:
-![Arish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arish7777&show_icons=true&theme=tokyonight)
-
-🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=Arish7777&theme=darkhub)
-
-✍️ Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
