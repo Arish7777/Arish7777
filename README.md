@@ -5,25 +5,6 @@
 
 ---
 
-🔭 I’m currently working on:
-- Agentic AI Systems (LangChain, LangGraph)
-- LLM-based Applications & RAG Pipelines
-
-🌱 I’m currently learning:
-- Information Retrieval
-- Scalable AI Systems & MLOps
-
-💬 Ask me about:
-- Machine Learning & Deep Learning  
-- Computer Vision & Generative AI  
-- NLP & Recommender Systems  
-- Data Structures, OS, DBMS, OOP  
-
-⚡ Fun fact:
-- I’m a Gamer 🎮 and enjoy building real-world AI systems
-
----
-
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadarishkhan555@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-arish-248471283/)
@@ -57,9 +38,24 @@
 
 ---
 
-## ✍️ Random Dev Quote:
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
 
+## 🔭 I’m currently working on:
+- Agentic AI Systems (LangChain, LangGraph)
+- LLM-based Applications & RAG Pipelines
+
+## 🌱 I’m currently learning:
+- Information Retrieval
+- Scalable AI Systems & MLOps
+
+## 💬 Ask me about:
+- Machine Learning & Deep Learning  
+- Computer Vision & Generative AI  
+- NLP & Recommender Systems  
+- Data Structures, OS, DBMS, OOP  
+
+## ⚡ Fun fact:
+- I’m a Gamer 🎮 and enjoy building real-world AI systems
 ---
 
 ## ⭐ Open to:
