@@ -57,18 +57,12 @@
 
 ---
 
-## 📊 GitHub Stats:
-![Arish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arish7777&show_icons=true&theme=tokyonight)
-
-## 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=Arish7777&theme=darkhub)
-
 ## ✍️ Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-⭐ Open to:
+## ⭐ Open to:
 - AI Internships  
 - Freelance & Paid AI Projects  
 - Research & Collaboration
