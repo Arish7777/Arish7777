@@ -1,4 +1,4 @@
-💫 Hey! This is Muhammad Arish Khan 👋
+## 💫 Hey! This is Muhammad Arish Khan 👋
 
 🎓 AI Undergraduate at FAST NUCES  
 🤖 AI Developer | Machine Learning • Deep Learning • Computer Vision • Generative AI  
@@ -24,11 +24,11 @@
 
 ---
 
-🌐 Connect with me:
-- 📧 Email: muhammadarishkhan555@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-arish-248471283/  
-- 🧑‍💻 GitHub: https://github.com/Arish7777  
-- 🌐 Portfolio: https://marishkhan.vercel.app  
+## 🌐 Socials:
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadarishkhan555@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-arish-248471283/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://marishkhan.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github)](https://github.com/Arish7777)
 
 ---
 
@@ -55,14 +55,6 @@
 
 ⚡ **Fun fact:**  
 - I’m a Gamer 🎮  
-
----
-
-## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadarishkhan555@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-arish-248471283/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://marishkhan.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github)](https://github.com/Arish7777)
 
 ---
 
